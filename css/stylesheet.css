@@ -1,0 +1,16 @@
+.container {
+    padding-top: 20px;
+}
+ul {
+  padding-left: 0;
+}
+li {
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+.block {
+  background-color: #e0e0e0;
+  color: black;
+  font-size: 12px;
+  padding: 20px;
+}
