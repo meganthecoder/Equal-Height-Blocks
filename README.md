@@ -1,6 +1,10 @@
 # Equal Height Masonry Feed
 
-Quick jQuery code that finds the height of elements per row under class="equal-heights-container" and sets each row to its unique tallest height. I find myself needing this in content feeds where I have a large number of elements that need to be listed together in a single container. Requires block elements under ".equal-heights-container" to have a Bootstrap column class.
+Bit of jQuery code that finds the height of elements per row under class="equal-heights-container" and sets each row to its unique tallest height. 
+
+I find myself needing this in content feeds where I have a large number of elements that need to be listed together in a single container. 
+
+Requires block elements under ".equal-heights-container" to have a Bootstrap column class.
 
 
 ```
@@ -20,4 +24,4 @@ Quick jQuery code that finds the height of elements per row under class="equal-h
 </ul>
 ```
 
-https://jsfiddle.net/meganthecoder/0334pf77/
+Try it on JSFiddle: https://jsfiddle.net/meganthecoder/0334pf77/
